@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "sable_tournament:block/explosive_instant_large",
+    "bottom": "sable_tournament:block/explosive_instant_bottom",
+    "top": "sable_tournament:block/explosive_instant_top"
+  }
+}

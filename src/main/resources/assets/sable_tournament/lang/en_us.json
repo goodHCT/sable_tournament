@@ -1,0 +1,26 @@
+{
+  "itemGroup.sable_tournament.main": "Create Aeronautics Tournament",
+  "block.sable_tournament.six_way_thruster": "Six-Way Thruster",
+  "block.sable_tournament.six_way_spinner": "Six-Way Spinner",
+  "block.sable_tournament.tournament_flap": "Tournament Flap",
+  "block.sable_tournament.gyro": "Gyro",
+  "block.sable_tournament.explosive_instant_small": "Small Instant Explosive",
+  "block.sable_tournament.explosive_instant_medium": "Medium Instant Explosive",
+  "block.sable_tournament.explosive_instant_large": "Large Instant Explosive",
+  
+  "item.sable_tournament.six_way_thruster.tooltip1": "Six-Way Thruster System",
+  "item.sable_tournament.six_way_thruster.tooltip2": "Provides thrust in all six directions (+/-X, +/-Y, +/-Z)",
+  "item.sable_tournament.six_way_thruster.tooltip3": "Redstone signal strength controls thrust power. Configurable via NBT parameters",
+  
+  "item.sable_tournament.six_way_spinner.tooltip1": "Six-Way Spinner System",
+  "item.sable_tournament.six_way_spinner.tooltip2": "Generates torque in both directions around X, Y, Z axis",
+  "item.sable_tournament.six_way_spinner.tooltip3": "Redstone signal strength controls torque magnitude. Configurable via NBT parameters",
+  
+  "item.sable_tournament.tournament_flap.tooltip1": "Adjustable Aerodynamic Drag",
+  "item.sable_tournament.tournament_flap.tooltip2": "Creates drag force based on orientation and airflow",
+  "item.sable_tournament.tournament_flap.tooltip3": "Configurable drag coefficient via NBT. Must be placed perpendicular to airflow",
+  
+  "item.sable_tournament.gyro.tooltip1": "Horizontal Attitude Controller",
+  "item.sable_tournament.gyro.tooltip2": "Automatic stabilization for helicopters and drones",
+  "item.sable_tournament.gyro.tooltip3": "Redstone signal strength on top controls stabilization power"
+}

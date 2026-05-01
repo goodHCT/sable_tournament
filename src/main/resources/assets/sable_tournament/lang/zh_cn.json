@@ -1,0 +1,26 @@
+{
+  "itemGroup.sable_tournament.main": "航空学锦标赛",
+  "block.sable_tournament.six_way_thruster": "六向推进器",
+  "block.sable_tournament.six_way_spinner": "六向旋转器",
+  "block.sable_tournament.tournament_flap": "竞赛襟翼",
+  "block.sable_tournament.gyro": "陀螺仪",
+  "block.sable_tournament.explosive_instant_small": "小型瞬炸炸药",
+  "block.sable_tournament.explosive_instant_medium": "中型瞬炸炸药",
+  "block.sable_tournament.explosive_instant_large": "大型瞬炸炸药",
+  
+  "item.sable_tournament.six_way_thruster.tooltip1": "六向推进系统",
+  "item.sable_tournament.six_way_thruster.tooltip2": "提供六个方向的推力（±X、±Y、±Z）",
+  "item.sable_tournament.six_way_thruster.tooltip3": "红石信号强度控制激活，可调节NBT参数",
+  
+  "item.sable_tournament.six_way_spinner.tooltip1": "六向旋转系统",
+  "item.sable_tournament.six_way_spinner.tooltip2": "围绕三个轴生成正反扭矩（X、Y、Z轴）",
+  "item.sable_tournament.six_way_spinner.tooltip3": "红石信号强度控制激活，可调节NBT参数",
+  
+  "item.sable_tournament.tournament_flap.tooltip1": "可调空气动力阻力",
+  "item.sable_tournament.tournament_flap.tooltip2": "根据方向和气流产生阻力",
+  "item.sable_tournament.tournament_flap.tooltip3": "可调节NBT阻力系数，需垂直于气流方向放置",
+  
+  "item.sable_tournament.gyro.tooltip1": "水平姿态控制器",
+  "item.sable_tournament.gyro.tooltip2": "自动稳定功能，方便制造直升机和无人机",
+  "item.sable_tournament.gyro.tooltip3": "顶部红石信号强度控制稳定力度"
+}

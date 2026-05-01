@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "axis=x": {
+            "model": "sable_tournament:block/tournament_flap/block",
+            "x": 90,
+            "y": 90
+        },
+        "axis=y": {
+            "model": "sable_tournament:block/tournament_flap/block"
+        },
+        "axis=z": {
+            "model": "sable_tournament:block/tournament_flap/block",
+            "x": 90,
+            "y": 180
+        }
+    }
+}
